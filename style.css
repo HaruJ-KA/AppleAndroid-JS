@@ -1,0 +1,63 @@
+html {
+  background-color: #cabfb6;
+}
+
+body {
+  font-family: "Open Sans", sans-serifs;
+  background-color: white;
+  width: 600px;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-bottom: 25px;
+  margin: auto;
+  margin-bottom: 25px;
+}
+
+h2 {
+  font-family: "Proza Libre";
+}
+
+#explore {
+  text-align: center;
+  background: #c9793b;
+  color: black;
+  padding: 10px 30px;
+  border-radius: 5px;
+  width: fit-content;
+  margin: auto;
+  margin-bottom: 30px;
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  width: 600px;
+}
+
+#android {
+  background-color: #a4c93b;
+}
+#apple {
+  background-color: #b6bcca;
+}
+button {
+  font-size: 20px;
+  padding: 5px 30px;
+  text-decoration: none;
+  border-color: #b6bcca;
+  border-radius: 3px;
+}
+
+button:hover {
+  border-color: black;
+}
+
+.redborder {
+  border: 2px solid red;
+}
+
+.active {
+  color: red;
+}
